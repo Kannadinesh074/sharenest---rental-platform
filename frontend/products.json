@@ -1,0 +1,29 @@
+[
+    {
+        "name": "acer alg 2",
+        "description": "Acer SmartChoice ALG, 13th Gen Intel Core i5-13420H, NVIDIA GeForce RTX 3050-6GB DDR6, 16GB RAM, 512GB SSD, FHD 15.6&quot;\/39.62 cm, 144Hz, Windows 11 Home, Steel Gray, 1.99 KG, AL15G-53,Gaming Laptop",
+        "price": "1200",
+        "image": ""
+    },
+    {
+        "name": "hp victus",
+        "brand": "HP",
+        "description": "gaming laptop",
+        "price": "999",
+        "image": "uploads\/1761671489_hp_gaming1.jpg"
+    },
+    {
+        "name": "hp victus",
+        "brand": "HP",
+        "description": "gaming laptop",
+        "price": "900",
+        "image": "uploads\/1761671973_hp_gaming1.jpg"
+    },
+    {
+        "name": "hp victus",
+        "brand": "HP",
+        "description": "....",
+        "price": "450",
+        "image": "uploads\/1761677420_qq.png"
+    }
+]
